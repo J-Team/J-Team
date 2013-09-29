@@ -1,4 +1,4 @@
 J-Team
 ======
 
-Report here the bugs
+Bugs Report
